@@ -24,9 +24,9 @@ import speechRecognition as sr
 ```  
 #
 # Google LLM Documantation
-```bash
-https://ai.google.dev/tutorials/python_quickstart
-```
+
+<a>https://ai.google.dev/tutorials/python_quickstart </a>
+
 #
 # Get API KEY (Gemini)
 ```bash

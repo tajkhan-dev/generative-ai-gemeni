@@ -29,6 +29,6 @@ import speechRecognition as sr
 
 #
 # Get API KEY (Gemini)
-```bash
+
 https://makersuite.google.com/app/apikey
-```
+

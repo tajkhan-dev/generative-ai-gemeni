@@ -35,8 +35,8 @@ model = genai.GenerativeModel('gemini-pro')
 
 def check_wake_word():
     while True:
-        awake = speech_recognition().lower()
-        if "hello jarvis" in awake:
+        speech = speech_recognition().lower()
+        if "hello jarvis" in speech:
             return True
         else:
             text_to_speech("Unauthorized voice")
